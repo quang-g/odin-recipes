@@ -1,0 +1,16 @@
+/* CSS Stylesheet */
+body {
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: oklch(0.373 0.034 259.733);
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+
+h1 {
+    font-size: 1.4rem;
+    color: oklch(0.21 0.034 264.665);
+    font-weight: 600;
+    background-color: beige;
+}
+
