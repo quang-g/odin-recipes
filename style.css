@@ -3,14 +3,27 @@ body {
     font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: oklch(0.373 0.034 259.733);
     box-sizing: border-box;
+    max-width: 600px;
     margin: auto;
     padding: auto;
 }
 
 h1 {
-    font-size: 1.4rem;
+    font-size: 24px;
     color: oklch(0.21 0.034 264.665);
-    font-weight: 600;
+    font-weight: 700;
     background-color: beige;
+    text-align: center;
 }
+
+.title {
+    height: 32px;
+    margin: auto;
+    padding: 6px;
+}
+
+a {
+    text-align: left
+}
+
 
